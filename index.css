@@ -1,3 +1,4 @@
+@import "tailwindcss";
 .test {
 	border: black 1px solid;
 }
